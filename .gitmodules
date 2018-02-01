@@ -1,0 +1,6 @@
+[submodule "relative-path-url"]
+	path = relative-path-url
+	url = ../submodule-link-bug-reference
+[submodule "full-path-url"]
+	path = full-path-url
+	url = git@github.com:DavidUser/submodule-link-bug-reference.git
